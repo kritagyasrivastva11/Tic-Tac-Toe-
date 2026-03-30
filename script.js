@@ -3,7 +3,6 @@ let resetBtn = document.querySelector("#reset-btn");
 let msg = document.querySelector("#msg");
 let msgContainer = document.querySelector(".msg-container");
 
-
 let turnO = true;
 
 const winPatterns = [
